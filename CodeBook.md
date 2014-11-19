@@ -15,7 +15,7 @@
 * The activities for each observation are available in `y_[train/test].txt` and names are correlated with `activity_labels.txt`
 
 identifier | original | modified
--------- | -----------
+---------- | ---------| --------
 1 | WALKING | walking
 2 | WALKING_UPSTAIRS | walking.upstairs
 3 | WALKING_DOWNSTAIRS | walking.downstairs
